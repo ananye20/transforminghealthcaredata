@@ -21,12 +21,20 @@ This project focuses on analyzing Medicare spending data in the USA, providing i
 
 ## Setup & Usage
 1. **Data Preprocessing**:
-    - Use Python scripts with pandas, NumPy, and seaborn to preprocess and clean the data.
+    - Upload the csv file into Google colab or Jupyter Notebook
+    - Use Python scripts with pandas, NumPy, and seaborn to preprocess and clean the data. Code mentioned in the document.
     - Construct a correlation matrix in Excel to analyze relationships between variables.
 2. **Visualization**:
+    - Load the preprocessed data into Tableau
     - Use Tableau to create interactive dashboards, including spatial maps and tree maps.
     - Apply clustering algorithms in Tableau to identify distinct groups based on spending patterns.
     - Construct box and whisker plots to identify and examine outlier hospitals in each state.
+  
+## Use Cases
+- **Budget Allocation:** Identify regions with high and low spending to allocate resources effectively.
+- **Performance Benchmarking:** Compare metrics across hospitals and states to set performance standards.
+- **Policy Development:** Utilize data-driven insights to inform healthcare policies and interventions.
+- **Operational Efficiency:** Detect inefficiencies and optimize operations within healthcare facilities.
   
 ## Contributing
 Contributions are welcome! To contribute:
@@ -35,3 +43,7 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Push to your forked repository.
 5. Submit a pull request detailing your changes.
+
+
+To use the dashboard without downloading, visit using Tableau Public profile: https://public.tableau.com/app/profile/ananye.shobhith.gajula/vizzes
+For more information visit: https://www.propulsiontechjournal.com/index.php/journal/article/view/5639/3808
