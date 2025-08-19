@@ -42,7 +42,7 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or fix.
 3. Commit your changes.
 4. Push to your forked repository.
-5. Submit a pull request detailing your changes.
+5. Submit a pull request detailing your changes
 
 
 To use the dashboard without downloading, visit using Tableau Public profile: https://public.tableau.com/app/profile/ananye.shobhith.gajula/vizzes
